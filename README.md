@@ -18,6 +18,9 @@ I pushed the Pandas DataFrame to the local PostgreSQL server so I can retrieve a
 Analysis / SQL Queries In this part, I want to find:
 
 Top 5 countries with the most/least confirmed cases
+
 Top 5 countries with the most/least deaths
+
 Top 5 countries with the most/least recovered
+
 Date in March with the most confirmed/deaths/recovered
